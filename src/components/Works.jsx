@@ -67,7 +67,7 @@ const Works = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]:"
         >
-          Aqui demonstro cada um dos meus projetos, podendo assim verificar minha evolução como programador web, colocando em prática cada uma das tecnologias que estou estudando em aplicações reais, assim demonstrando minhas abilidades como desenvolvedor.
+          Aqui demonstro cada um dos meus projetos, podendo assim verificar minha evolução como programador web, colocando em prática cada uma das tecnologias que estou estudando em aplicações reais, assim demonstrando minhas habilidades como desenvolvedor.
           Em cada projeto descrevo as tecnologias usadas e as funcionalidades de cada aplicação.
 
         </motion.p>
