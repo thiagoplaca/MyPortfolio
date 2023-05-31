@@ -27,6 +27,7 @@ import stopwatch from './stopwatch.png'
 import timetracking from './timetracking.png'
 import todolist from './todolist.png'
 import watch from './watch.png'
+import netflix from './netflix-clone.png'
 
 export {
   logo,
@@ -54,5 +55,6 @@ export {
   stopwatch,
   timetracking,
   todolist,
-  watch
+  watch,
+  netflix,
 };

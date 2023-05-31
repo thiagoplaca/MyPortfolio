@@ -20,7 +20,8 @@ import {
   stopwatch,
   timetracking,
   todolist,
-  watch
+  watch,
+  netflix
 } from "../assets";
 
 export const navLinks = [
@@ -90,6 +91,31 @@ const experiences = [
 ];
 
 const projects = [
+  {
+    name: "Netflix Clone",
+    description:
+      "Um clone do netflix apenas para fins didáticos.",
+    tags: [
+      {
+        name: "HTML",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: netflix,
+    source_code_link: "https://netflix-clone-orcin-gamma.vercel.app/",
+  },
   {
     name: "MoviesLib",
     description:
