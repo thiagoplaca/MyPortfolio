@@ -1,5 +1,3 @@
-import React from 'react'
-
 import { motion } from 'framer-motion'
 import { Tilt } from 'react-tilt'
 import { styles } from '../styles'
