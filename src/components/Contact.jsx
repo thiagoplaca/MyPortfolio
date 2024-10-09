@@ -27,14 +27,14 @@ const Contact = () => {
     e.preventDefault()
     setLoading(true)
 
-    emailjs.send('service_cbp9dsh', 'template_njiknaa', 
+    emailjs.send('service_uu4llpb', 'template_x1kcxkv', 
     {
       from_name: form.name,
       to_name: 'Thiago',
       from_email: form.email,
       to_email: 'thiagosampaio99@gmail.com',
       message: form.message,
-    }, 'upn5kjf6h89phMMF0')
+      }, 'CeXDXG436plODun3Y')
     
     .then(() => {
       setLoading(false)
