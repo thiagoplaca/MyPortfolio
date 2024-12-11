@@ -188,27 +188,6 @@ const projects = [
     source_code_link: "https://thiagoplaca.github.io/MyPokedex/",
   },
   {
-    name: "My IP",
-    description:
-      "Uma Ferramenta para descobrir seu IP Local.",
-    tags: [
-      {
-        name: "HTML",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: ip,
-    source_code_link: "https://thiagoplaca.github.io/MyIP/",
-  },
-  {
     name: "Digital Clock",
     description:
     "Projeto de um relógio digital, com a opção de alternar o layout da página para o Light Mode.",
